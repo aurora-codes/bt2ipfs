@@ -15,7 +15,7 @@ The script also includes a `usage()` function that prints the usage information 
 
 Overall, this script is designed to simplify the process of creating and using magnet links, as well as downloading files from IPFS using the `aria2c` command.
 
-# magnet2ipfs.sh
+# magnet2ipfs
 This bash script is designed to perform the following tasks:
 
 1. **Get the magnet link from the user**: The script prompts the user to enter a magnet link, which is a type of torrent link that contains the necessary information to download a torrent file.
