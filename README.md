@@ -1,4 +1,4 @@
-<img width="1404" alt="grey_cloud" src="https://github.com/aurora-codes/bt2ipfs/assets/87864952/df038196-7559-4550-a559-b997720e154d">
+<img width="1404" alt="dark_cloud" src="https://github.com/aurora-codes/bt2ipfs/assets/87864952/dcf8a2ca-6304-41a0-aacc-71fd475d8a8d">
 
 # bt2ipfs
 This bash script is designed to handle two main functionalities:
